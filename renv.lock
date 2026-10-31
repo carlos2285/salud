@@ -15,5 +15,8 @@
       "Source": "Repository",
       "Repository": "CRAN"
     }
+  },
+  "renv": {
+    "Version": "1.1.5"
   }
 }
