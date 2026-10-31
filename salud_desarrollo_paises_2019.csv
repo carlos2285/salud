@@ -1,0 +1,218 @@
+iso3,pais,region,ingreso,esperanza_vida,pib_pc_ppa,gasto_salud_pib,urbana_pct,agua_basica_pct,america_latina
+ABW,Aruba,América Latina y el Caribe,Ingreso alto,76.02,39755.0,,62.3,,1
+AFG,Afganistán,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso bajo,62.94,2927.0,14.83,25.1,69.8,0
+AGO,Angola,África Subsahariana,Ingreso mediano bajo,63.05,9713.0,2.2,66.7,64.2,0
+ALB,Albania,Europa y Asia Central,Ingreso mediano alto,79.47,16761.0,6.78,56.8,94.8,0
+AND,Andorra,Europa y Asia Central,Ingreso alto,84.1,63216.0,7.32,88.5,100.0,0
+ARE,Emiratos Árabes Unidos,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,82.6,72823.0,4.4,85.0,100.0,0
+ARG,Argentina,América Latina y el Caribe,Ingreso mediano alto,76.85,26630.0,10.12,91.9,,1
+ARM,Armenia,Europa y Asia Central,Ingreso mediano alto,76.22,16215.0,11.38,65.0,99.5,0
+ASM,Samoa Americana,Asia Oriental y el Pacífico,Ingreso alto,72.75,,,83.1,99.5,0
+ATG,Antigua y Barbuda,América Latina y el Caribe,Ingreso alto,77.17,29652.0,4.28,24.7,98.8,1
+AUS,Australia,Asia Oriental y el Pacífico,Ingreso alto,82.9,58049.0,10.25,87.3,100.0,0
+AUT,Austria,Europa y Asia Central,Ingreso alto,81.9,64609.0,10.63,68.3,100.0,0
+AZE,Azerbaiyán,Europa y Asia Central,Ingreso mediano alto,73.29,20101.0,4.18,58.1,93.2,0
+BDI,Burundi,África Subsahariana,Ingreso bajo,62.18,1055.0,9.06,18.8,63.8,0
+BEL,Bélgica,Europa y Asia Central,Ingreso alto,82.0,60480.0,10.86,87.1,100.0,0
+BEN,Benin,África Subsahariana,Ingreso mediano bajo,59.89,3281.0,3.0,48.7,68.0,0
+BFA,Burkina Faso,África Subsahariana,Ingreso bajo,60.18,2392.0,5.35,26.1,50.7,0
+BGD,Bangladesh,Asia Meridional,Ingreso mediano bajo,72.63,6838.0,2.13,30.8,98.1,0
+BGR,Bulgaria,Europa y Asia Central,Ingreso alto,75.11,29150.0,7.12,73.7,99.3,0
+BHR,Bahrein,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,80.47,56750.0,3.78,100.0,99.9,0
+BHS,Bahamas,América Latina y el Caribe,Ingreso alto,71.41,33202.0,5.7,81.8,98.9,1
+BIH,Bosnia y Herzegovina,Europa y Asia Central,Ingreso mediano alto,77.39,17029.0,8.93,49.5,96.1,0
+BLR,Belarús,Europa y Asia Central,Ingreso mediano alto,74.23,26799.0,5.86,77.5,99.2,0
+BLZ,Belice,América Latina y el Caribe,Ingreso mediano alto,72.58,11766.0,4.82,42.9,94.1,1
+BMU,Bermudas,América del Norte,Ingreso alto,81.25,95524.0,,100.0,100.0,0
+BOL,Bolivia,América Latina y el Caribe,Ingreso mediano bajo,67.82,11931.0,6.89,69.7,91.2,1
+BRA,Brasil,América Latina y el Caribe,Ingreso mediano alto,75.81,18019.0,9.61,86.7,98.8,1
+BRB,Barbados,América Latina y el Caribe,Ingreso alto,76.5,19890.0,5.67,59.3,99.0,1
+BRN,Brunei Darussalam,Asia Oriental y el Pacífico,Ingreso alto,75.05,80228.0,2.23,74.8,99.9,0
+BTN,Bhután,Asia Meridional,Ingreso mediano bajo,72.0,14555.0,3.38,39.1,99.0,0
+BWA,Botswana,África Subsahariana,Ingreso mediano alto,67.17,18106.0,6.12,66.3,91.5,0
+CAF,República Centroafricana,África Subsahariana,Ingreso bajo,31.53,1145.0,7.76,41.8,38.2,0
+CAN,Canadá,América del Norte,Ingreso alto,82.16,57584.0,11.05,81.7,98.6,0
+CHE,Suiza,Europa y Asia Central,Ingreso alto,83.9,81695.0,11.43,80.8,100.0,0
+CHI,Islas del Canal,Europa y Asia Central,Ingreso alto,81.2,,,32.8,,0
+CHL,Chile,América Latina y el Caribe,Ingreso alto,80.32,28228.0,9.31,88.1,98.6,1
+CHN,China,Asia Oriental y el Pacífico,Ingreso mediano alto,77.94,18821.0,5.27,62.7,93.5,0
+CIV,Côte d'Ivoire,África Subsahariana,Ingreso mediano bajo,60.27,5895.0,3.19,51.4,75.6,0
+CMR,Camerún,África Subsahariana,Ingreso mediano bajo,61.7,4882.0,3.65,53.9,68.8,0
+COD,"Congo, República Democrática del",África Subsahariana,Ingreso bajo,60.24,1395.0,3.51,42.9,35.7,0
+COG,"Congo, República del",África Subsahariana,Ingreso mediano bajo,63.15,6939.0,2.35,63.5,73.1,0
+COL,Colombia,América Latina y el Caribe,Ingreso mediano alto,76.79,17337.0,7.83,77.5,96.1,1
+COM,Comoras,África Subsahariana,Ingreso mediano bajo,65.66,3523.0,5.18,31.7,85.6,0
+CPV,Cabo Verde,África Subsahariana,Ingreso mediano alto,75.45,9112.0,4.82,71.6,87.8,0
+CRI,Costa Rica,América Latina y el Caribe,Ingreso alto,80.3,23497.0,7.22,77.0,99.8,1
+CUB,Cuba,América Latina y el Caribe,Ingreso mediano alto,77.41,,11.09,77.1,94.1,1
+CUW,Curacao,América Latina y el Caribe,Ingreso alto,76.49,28660.0,,91.4,100.0,1
+CYM,Islas Caimán,América Latina y el Caribe,Ingreso alto,79.05,77477.0,,100.0,95.6,1
+CYP,Chipre,Europa y Asia Central,Ingreso alto,81.45,45454.0,7.0,66.8,99.8,0
+CZE,República Checa,Europa y Asia Central,Ingreso alto,79.23,47764.0,7.49,72.8,98.7,0
+DEU,Alemania,Europa y Asia Central,Ingreso alto,81.29,62950.0,11.43,81.3,100.0,0
+DJI,Djibouti,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,64.38,5809.0,2.41,71.7,78.5,0
+DMA,Dominica,América Latina y el Caribe,Ingreso mediano alto,71.31,17619.0,5.17,71.4,96.5,1
+DNK,Dinamarca,Europa y Asia Central,Ingreso alto,81.45,66759.0,10.18,88.2,100.0,0
+DOM,República Dominicana,América Latina y el Caribe,Ingreso mediano alto,73.11,21451.0,4.37,73.5,96.7,1
+DZA,Argelia,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,75.68,15199.0,5.42,72.5,92.0,0
+ECU,Ecuador,América Latina y el Caribe,Ingreso mediano alto,77.29,13870.0,7.81,63.1,91.2,1
+EGY,"Egipto, República Árabe de","Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,71.21,15027.0,4.6,42.5,97.6,0
+ERI,Eritrea,África Subsahariana,Ingreso bajo,67.31,,4.65,35.2,,0
+ESP,España,Europa y Asia Central,Ingreso alto,83.83,46896.0,9.22,79.6,99.9,0
+EST,Estonia,Europa y Asia Central,Ingreso alto,78.65,42215.0,6.65,69.6,100.0,0
+ETH,Etiopía,África Subsahariana,Ingreso bajo,65.74,2438.0,3.24,21.2,48.1,0
+FIN,Finlandia,Europa y Asia Central,Ingreso alto,81.98,56922.0,9.22,72.7,100.0,0
+FJI,Fiji,Asia Oriental y el Pacífico,Ingreso mediano alto,67.01,13056.0,4.28,56.7,95.4,0
+FRA,Francia,Europa y Asia Central,Ingreso alto,82.83,53449.0,11.17,78.7,100.0,0
+FRO,Islas Feroe,Europa y Asia Central,Ingreso alto,82.39,68137.0,,38.4,100.0,0
+FSM,Micronesia (Estados Federados de),Asia Oriental y el Pacífico,Ingreso mediano alto,66.2,3965.0,11.87,22.4,89.9,0
+GAB,Gabón,África Subsahariana,Ingreso mediano alto,67.34,19491.0,2.77,89.9,87.5,0
+GBR,Reino Unido,Europa y Asia Central,Ingreso alto,81.37,53374.0,9.98,82.7,100.0,0
+GEO,Georgia,Europa y Asia Central,Ingreso mediano alto,74.17,18187.0,7.31,58.6,96.6,0
+GHA,Ghana,África Subsahariana,Ingreso mediano bajo,64.45,6508.0,3.25,55.7,84.8,0
+GIB,Gibraltar,Europa y Asia Central,Ingreso alto,83.18,,,100.0,100.0,0
+GIN,Guinea,África Subsahariana,Ingreso mediano bajo,59.38,3557.0,4.09,36.1,68.2,0
+GMB,Gambia,África Subsahariana,Ingreso bajo,64.43,2751.0,3.15,61.6,84.4,0
+GNB,Guinea-Bissau,África Subsahariana,Ingreso bajo,62.16,2442.0,7.15,43.9,61.2,0
+GNQ,Guinea Ecuatorial,África Subsahariana,Ingreso mediano alto,62.3,18447.0,3.28,70.1,,0
+GRC,Grecia,Europa y Asia Central,Ingreso alto,81.64,33503.0,8.12,78.2,100.0,0
+GRD,Granada,América Latina y el Caribe,Ingreso mediano alto,74.97,17037.0,4.93,36.1,,1
+GRL,Groenlandia,Europa y Asia Central,Ingreso alto,71.41,68535.0,,87.0,100.0,0
+GTM,Guatemala,América Latina y el Caribe,Ingreso mediano alto,71.64,11466.0,6.17,54.2,92.1,1
+GUM,Guam,Asia Oriental y el Pacífico,Ingreso alto,76.64,,,94.1,99.5,0
+GUY,Guyana,América Latina y el Caribe,Ingreso alto,69.07,13402.0,4.9,26.4,94.8,1
+HKG,"Hong Kong, Región Administrativa Especial",Asia Oriental y el Pacífico,Ingreso alto,85.16,65388.0,,100.0,100.0,0
+HND,Honduras,América Latina y el Caribe,Ingreso mediano bajo,72.12,6264.0,7.34,56.4,94.0,1
+HRV,Croacia,Europa y Asia Central,Ingreso alto,78.22,35123.0,6.79,56.3,99.9,0
+HTI,Haití,América Latina y el Caribe,Ingreso mediano bajo,64.33,3362.0,3.91,52.0,69.7,1
+HUN,Hungría,Europa y Asia Central,Ingreso alto,76.32,37663.0,6.25,70.5,99.5,0
+IDN,Indonesia,Asia Oriental y el Pacífico,Ingreso mediano alto,70.35,12758.0,2.88,55.7,88.8,0
+IMN,Isla de Man,Europa y Asia Central,Ingreso alto,80.74,,,52.2,99.5,0
+IND,India,Asia Meridional,Ingreso mediano bajo,70.75,7702.0,2.95,33.8,92.4,0
+IRL,Irlanda,Europa y Asia Central,Ingreso alto,82.7,96206.0,6.62,63.3,97.0,0
+IRN,"Irán, República Islámica del","Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,76.86,14841.0,6.23,75.2,97.3,0
+IRQ,Iraq,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,71.25,14910.0,4.21,69.9,97.8,0
+ISL,Islandia,Europa y Asia Central,Ingreso alto,83.16,65995.0,8.64,94.0,100.0,0
+ISR,Israel,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,82.8,44492.0,7.21,91.6,100.0,0
+ITA,Italia,Europa y Asia Central,Ingreso alto,83.5,49691.0,8.62,69.5,99.9,0
+JAM,Jamaica,América Latina y el Caribe,Ingreso mediano alto,71.53,10816.0,6.97,56.7,89.2,1
+JOR,Jordania,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,76.86,10168.0,7.07,91.5,99.1,0
+JPN,Japón,Asia Oriental y el Pacífico,Ingreso alto,84.36,46055.0,10.97,91.7,99.0,0
+KAZ,Kazajstán,Europa y Asia Central,Ingreso mediano alto,73.66,33298.0,2.87,59.1,96.6,0
+KEN,Kenya,África Subsahariana,Ingreso mediano bajo,62.94,5172.0,4.37,31.2,61.5,0
+KGZ,Kirguistán,Europa y Asia Central,Ingreso mediano bajo,71.6,6088.0,4.25,34.9,92.0,0
+KHM,Camboya,Asia Oriental y el Pacífico,Ingreso mediano bajo,70.13,6449.0,5.06,39.6,77.5,0
+KIR,Kiribati,Asia Oriental y el Pacífico,Ingreso mediano bajo,65.87,2927.0,10.17,56.3,75.8,0
+KNA,Saint Kitts y Nevis,América Latina y el Caribe,Ingreso alto,71.54,31512.0,5.19,31.4,,1
+KOR,"Corea, República de",Asia Oriental y el Pacífico,Ingreso alto,83.23,49791.0,7.69,81.3,99.7,0
+KWT,Kuwait,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,81.97,51381.0,5.18,100.0,100.0,0
+LAO,República Democrática Popular Lao,Asia Oriental y el Pacífico,Ingreso mediano bajo,67.91,8075.0,2.6,35.9,83.9,0
+LBN,Líbano,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,78.21,15660.0,8.69,89.5,92.6,0
+LBR,Liberia,África Subsahariana,Ingreso bajo,61.23,1576.0,8.38,52.9,75.5,0
+LBY,Libia,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano alto,72.94,14337.0,5.55,87.8,95.0,0
+LCA,Santa Lucía,América Latina y el Caribe,Ingreso mediano alto,72.25,22445.0,4.29,24.2,96.8,1
+LIE,Liechtenstein,Europa y Asia Central,Ingreso alto,84.16,,5.78,14.6,100.0,0
+LKA,Sri Lanka,Asia Meridional,Ingreso mediano alto,76.7,14637.0,3.7,19.5,89.0,0
+LSO,Lesotho,África Subsahariana,Ingreso mediano bajo,55.25,2773.0,21.92,38.6,75.1,0
+LTU,Lituania,Europa y Asia Central,Ingreso alto,76.28,43079.0,6.94,67.2,98.5,0
+LUX,Luxemburgo,Europa y Asia Central,Ingreso alto,82.64,132725.0,5.47,93.3,100.0,0
+LVA,Letonia,Europa y Asia Central,Ingreso alto,75.39,35208.0,6.86,68.1,98.6,0
+MAC,"Región Administrativa Especial de Macao, China",Asia Oriental y el Pacífico,Ingreso alto,83.93,133454.0,,100.0,100.0,0
+MAF,Isla de San Martín (parte francesa),América Latina y el Caribe,Ingreso alto,80.08,,,100.0,99.9,1
+MAR,Marruecos,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,74.25,8768.0,5.02,61.8,86.8,0
+MCO,Mónaco,Europa y Asia Central,Ingreso alto,86.15,,3.88,100.0,100.0,0
+MDA,República de Moldova,Europa y Asia Central,Ingreso mediano alto,70.18,14621.0,6.5,40.8,90.5,0
+MDG,Madagascar,África Subsahariana,Ingreso bajo,63.5,1708.0,3.1,30.3,51.4,0
+MDV,Maldivas,Asia Meridional,Ingreso mediano alto,79.71,21856.0,7.5,40.0,99.6,0
+MEX,México,América Latina y el Caribe,Ingreso mediano alto,74.53,21704.0,5.3,78.4,98.5,1
+MHL,Islas Marshall,Asia Oriental y el Pacífico,Ingreso mediano alto,66.05,6406.0,14.99,76.9,87.7,0
+MKD,Macedonia del Norte,Europa y Asia Central,Ingreso mediano alto,76.6,21767.0,7.07,60.6,98.0,0
+MLI,Malí,África Subsahariana,Ingreso bajo,59.22,2916.0,3.83,28.4,79.4,0
+MLT,Malta,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,82.66,53393.0,8.89,94.9,100.0,0
+MMR,Myanmar,Asia Oriental y el Pacífico,Ingreso mediano bajo,66.46,6563.0,3.81,30.1,81.6,0
+MNE,Montenegro,Europa y Asia Central,Ingreso mediano alto,76.68,24585.0,8.33,65.2,99.1,0
+MNG,Mongolia,Asia Oriental y el Pacífico,Ingreso mediano alto,71.05,15791.0,4.49,67.8,82.2,0
+MNP,Islas Marianas del Norte,Asia Oriental y el Pacífico,Ingreso alto,77.84,,,91.6,100.0,0
+MOZ,Mozambique,África Subsahariana,Ingreso bajo,61.31,1529.0,7.9,33.4,56.3,0
+MRT,Mauritania,África Subsahariana,Ingreso mediano bajo,67.64,6162.0,3.09,56.1,70.2,0
+MUS,Mauricio,África Subsahariana,Ingreso mediano alto,74.24,25958.0,5.7,39.3,99.8,0
+MWI,Malawi,África Subsahariana,Ingreso bajo,65.0,1687.0,6.37,16.1,69.1,0
+MYS,Malasia,Asia Oriental y el Pacífico,Ingreso mediano alto,75.9,31301.0,3.84,74.8,97.7,0
+NAM,Namibia,África Subsahariana,Ingreso mediano bajo,63.55,10813.0,8.86,48.0,84.6,0
+NCL,Nueva Caledonia,Asia Oriental y el Pacífico,Ingreso alto,77.26,,,67.2,99.1,0
+NER,Níger,África Subsahariana,Ingreso bajo,60.03,1605.0,5.67,16.8,50.0,0
+NGA,Nigeria,África Subsahariana,Ingreso mediano bajo,53.01,8362.0,2.99,59.0,74.6,0
+NIC,Nicaragua,América Latina y el Caribe,Ingreso mediano bajo,73.76,6757.0,8.5,58.5,,1
+NLD,Países Bajos,Europa y Asia Central,Ingreso alto,82.11,67848.0,9.94,93.9,100.0,0
+NOR,Noruega,Europa y Asia Central,Ingreso alto,82.96,90773.0,10.44,82.5,100.0,0
+NPL,Nepal,Asia Meridional,Ingreso mediano bajo,69.3,4608.0,4.45,66.0,91.0,0
+NRU,Nauru,Asia Oriental y el Pacífico,Ingreso alto,61.39,11185.0,11.56,100.0,98.0,0
+NZL,Nueva Zelandia,Asia Oriental y el Pacífico,Ingreso alto,82.06,47392.0,8.62,83.8,100.0,0
+OMN,Omán,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,79.95,38292.0,3.81,79.6,91.9,0
+PAK,Pakistán,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,66.73,5296.0,2.85,37.1,90.2,0
+PAN,Panamá,América Latina y el Caribe,Ingreso alto,78.51,33164.0,8.14,65.8,94.1,1
+PER,Perú,América Latina y el Caribe,Ingreso mediano alto,76.28,15461.0,5.13,83.1,92.8,1
+PHL,Filipinas,Asia Oriental y el Pacífico,Ingreso mediano alto,69.68,9452.0,4.17,53.7,93.9,0
+PLW,Palau,Asia Oriental y el Pacífico,Ingreso alto,68.98,19686.0,12.17,79.3,99.5,0
+PNG,Papua Nueva Guinea,Asia Oriental y el Pacífico,Ingreso mediano bajo,65.33,4302.0,2.33,13.9,48.3,0
+POL,Polonia,Europa y Asia Central,Ingreso alto,77.9,38182.0,6.39,60.0,92.8,0
+PRI,Puerto Rico,América Latina y el Caribe,Ingreso alto,81.44,41656.0,,94.0,100.0,1
+PRK,"Corea, República Popular Democrática de",Asia Oriental y el Pacífico,Ingreso bajo,72.93,,,62.4,93.8,0
+PRT,Portugal,Europa y Asia Central,Ingreso alto,81.68,40188.0,9.51,61.1,99.2,0
+PRY,Paraguay,América Latina y el Caribe,Ingreso mediano alto,73.67,15319.0,7.16,65.0,98.0,1
+PSE,Ribera Occidental y Gaza,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,75.81,6270.0,9.19,85.8,99.0,0
+PYF,Polinesia Francesa,Asia Oriental y el Pacífico,Ingreso alto,83.19,,,61.8,100.0,0
+QAT,Qatar,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,82.94,113161.0,3.18,99.1,100.0,0
+ROU,Rumania,Europa y Asia Central,Ingreso alto,75.61,36399.0,5.7,52.9,100.0,0
+RUS,Federación de Rusia,Europa y Asia Central,Ingreso alto,73.08,37319.0,5.65,74.6,96.7,0
+RWA,Rwanda,África Subsahariana,Ingreso bajo,66.69,2754.0,4.91,23.0,58.5,0
+SAU,Arabia Saudita,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso alto,78.31,62648.0,5.47,83.6,99.0,0
+SDN,Sudán,África Subsahariana,Ingreso bajo,65.8,3626.0,4.6,34.5,60.1,0
+SEN,Senegal,África Subsahariana,Ingreso mediano bajo,67.67,4071.0,4.5,49.9,82.3,0
+SGP,Singapur,Asia Oriental y el Pacífico,Ingreso alto,83.6,120678.0,4.41,100.0,100.0,0
+SLB,Islas Salomón,Asia Oriental y el Pacífico,Ingreso mediano bajo,69.98,2662.0,4.44,27.3,71.6,0
+SLE,Sierra Leona,África Subsahariana,Ingreso bajo,59.59,2853.0,5.71,42.7,62.2,0
+SLV,El Salvador,América Latina y el Caribe,Ingreso mediano alto,71.72,10544.0,8.81,72.4,89.4,1
+SMR,San Marino,Europa y Asia Central,Ingreso alto,85.26,60171.0,8.15,97.1,100.0,0
+SOM,Somalia,África Subsahariana,Ingreso bajo,57.25,1491.0,2.41,51.6,63.2,0
+SRB,Serbia,Europa y Asia Central,Ingreso mediano alto,75.94,21541.0,8.29,61.0,94.7,0
+SSD,Sudán del Sur,África Subsahariana,Ingreso bajo,58.13,,9.07,19.9,39.9,0
+STP,Santo Tomé y Príncipe,África Subsahariana,Ingreso mediano bajo,68.04,5702.0,5.48,67.9,76.6,0
+SUR,Suriname,América Latina y el Caribe,Ingreso mediano alto,71.77,22967.0,8.38,66.0,97.5,1
+SVK,República Eslovaca,Europa y Asia Central,Ingreso alto,77.67,37194.0,6.91,53.4,99.8,0
+SVN,Eslovenia,Europa y Asia Central,Ingreso alto,81.53,44578.0,8.57,55.5,99.6,0
+SWE,Suecia,Europa y Asia Central,Ingreso alto,83.11,61071.0,10.93,87.7,99.7,0
+SWZ,Eswatini,África Subsahariana,Ingreso mediano bajo,59.85,10100.0,8.4,24.3,74.3,0
+SXM,Sint Maarten (parte neerlandesa),América Latina y el Caribe,Ingreso alto,75.68,45997.0,,100.0,,1
+SYC,Seychelles,África Subsahariana,Ingreso alto,74.05,34346.0,4.25,44.0,96.9,0
+SYR,República Árabe Siria,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso bajo,70.97,4928.0,3.97,73.8,93.9,0
+TCA,Islas Turcas y Caicos,América Latina y el Caribe,Ingreso alto,77.69,30611.0,,92.9,98.8,1
+TCD,Chad,África Subsahariana,Ingreso bajo,52.99,2605.0,3.38,24.3,50.5,0
+TGO,Togo,África Subsahariana,Ingreso mediano bajo,61.06,2863.0,5.91,41.4,61.6,0
+THA,Tailandia,Asia Oriental y el Pacífico,Ingreso mediano alto,77.2,21280.0,3.79,55.9,99.4,0
+TJK,Tayikistán,Europa y Asia Central,Ingreso mediano bajo,70.96,3650.0,6.95,26.1,84.9,0
+TKM,Turkmenistán,Europa y Asia Central,Ingreso mediano alto,69.41,15081.0,5.55,47.0,99.0,0
+TLS,Timor-Leste,Asia Oriental y el Pacífico,Ingreso mediano bajo,66.5,5103.0,4.99,29.1,79.1,0
+TON,Tonga,Asia Oriental y el Pacífico,Ingreso mediano alto,72.29,6860.0,5.75,22.3,98.8,0
+TTO,Trinidad y Tobago,América Latina y el Caribe,Ingreso alto,72.84,33749.0,6.91,53.9,98.6,1
+TUN,Túnez,"Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso mediano bajo,75.6,13244.0,6.02,68.8,94.7,0
+TUR,Turquía,Europa y Asia Central,Ingreso mediano alto,77.74,28741.0,4.36,88.7,95.8,0
+TUV,Tuvalu,Asia Oriental y el Pacífico,Ingreso mediano alto,66.11,5516.0,22.22,61.2,98.8,0
+TZA,Tanzanía,África Subsahariana,Ingreso mediano bajo,66.01,3485.0,4.02,33.3,56.9,0
+UGA,Uganda,África Subsahariana,Ingreso bajo,66.35,2689.0,3.79,27.8,54.6,0
+UKR,Ucrania,Europa y Asia Central,Ingreso mediano alto,73.92,17637.0,7.09,69.4,93.4,0
+URY,Uruguay,América Latina y el Caribe,Ingreso alto,77.5,30011.0,9.24,95.3,99.6,1
+USA,Estados Unidos,América del Norte,Ingreso alto,78.79,69121.0,16.54,80.1,99.7,0
+UZB,Uzbekistán,Europa y Asia Central,Ingreso mediano bajo,72.09,9169.0,4.84,50.6,95.6,0
+VCT,San Vicente y las Granadinas,América Latina y el Caribe,Ingreso mediano alto,70.99,16365.0,4.26,47.2,,1
+VEN,Venezuela,América Latina y el Caribe,Ingreso mediano bajo,72.77,,2.19,89.1,93.9,1
+VGB,Islas Vírgenes Británicas,América Latina y el Caribe,Ingreso alto,76.84,,,52.4,99.9,1
+VIR,Islas Vírgenes (EE.UU.),América Latina y el Caribe,Ingreso alto,79.67,45633.0,,95.1,99.3,1
+VNM,Viet Nam,Asia Oriental y el Pacífico,Ingreso mediano alto,74.21,11629.0,4.97,34.6,95.6,0
+VUT,Vanuatu,Asia Oriental y el Pacífico,Ingreso mediano bajo,70.78,3987.0,3.5,23.5,86.8,0
+WSM,Samoa,Asia Oriental y el Pacífico,Ingreso mediano alto,70.27,7034.0,5.65,18.4,95.5,0
+XKX,Kosovo,Europa y Asia Central,Ingreso mediano alto,77.25,11774.0,,44.0,,0
+YEM,"Yemen, Rep. del","Oriente Medio, Norte de África, Afganistán y Pakistán",Ingreso bajo,66.57,,10.97,34.9,66.5,0
+ZAF,Sudáfrica,África Subsahariana,Ingreso mediano alto,66.07,14353.0,8.25,63.4,91.4,0
+ZMB,Zambia,África Subsahariana,Ingreso mediano bajo,62.91,3592.0,6.75,43.5,68.1,0
+ZWE,Zimbabwe,África Subsahariana,Ingreso mediano bajo,61.06,4994.0,3.23,36.2,67.2,0
